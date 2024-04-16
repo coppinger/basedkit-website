@@ -1,4 +1,4 @@
-<pre class="text-[4px]">
+<pre class="text-[3px] md:text-[4px]">
                                                                                                                                                 
                                                                                       dddddddd                                                  
 BBBBBBBBBBBBBBBBB                                                                     d::::::dKKKKKKKKK    KKKKKKK  iiii          tttt          

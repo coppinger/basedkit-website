@@ -1,9 +1,9 @@
 <script>
-	import '../app.pcss';
+    import "../app.pcss";
 </script>
 
 <div
-	class="min-w-screen dark flex min-h-screen flex-col items-center justify-center gap-4 bg-black text-[#00ff00]"
+    class="min-w-screen dark flex min-h-screen flex-col items-center justify-center gap-4 bg-black text-[#00ff00] p-2"
 >
-	<slot />
+    <slot />
 </div>
