@@ -208,5 +208,8 @@ BBBBBBBBBBBBBBBBB     aaaaaaaaaa  aaaa sssssssssss        eeeeeeeeeeeeee     ddd
 
     pre {
         font-size: 0.15rem;
+        white-space: pre;
+        letter-spacing: unset;
+        font-family: monospace;
     }
 </style>

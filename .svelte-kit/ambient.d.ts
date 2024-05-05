@@ -37,11 +37,11 @@ declare module '$env/static/private' {
 	export const FZF_CTRL_T_COMMAND: string;
 	export const GIT_ASKPASS: string;
 	export const npm_node_execpath: string;
+	export const WT_PROFILE_ID: string;
 	export const SHLVL: string;
 	export const LD_LIBRARY_PATH: string;
 	export const BROWSER: string;
 	export const forgit_blame: string;
-	export const WT_PROFILE_ID: string;
 	export const npm_config_noproxy: string;
 	export const HOME: string;
 	export const OLDPWD: string;
@@ -165,11 +165,11 @@ declare module '$env/dynamic/private' {
 		FZF_CTRL_T_COMMAND: string;
 		GIT_ASKPASS: string;
 		npm_node_execpath: string;
+		WT_PROFILE_ID: string;
 		SHLVL: string;
 		LD_LIBRARY_PATH: string;
 		BROWSER: string;
 		forgit_blame: string;
-		WT_PROFILE_ID: string;
 		npm_config_noproxy: string;
 		HOME: string;
 		OLDPWD: string;
