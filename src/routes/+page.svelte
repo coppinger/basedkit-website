@@ -168,7 +168,7 @@ BBBBBBBBBBBBBBBBB     aaaaaaaaaa  aaaa sssssssssss        eeeeeeeeeeeeee     ddd
     <ul class="flex gap-4 flex-wrap justify-center max-w-xs">
         {#each contributors as { username, id }}
             <li>
-                <a href={`https://github.com/${username}}`} target="_blank">
+                <a href={`https://github.com/${username}`} target="_blank">
                     <img
                         src={`https://avatars.githubusercontent.com/u/${id}?v=4`}
                         alt={`${username}\'s GitHub profile picture`}
